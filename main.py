@@ -5,7 +5,7 @@ import os
 
 POEM = (
     "You gave me your keys and said stay.\n"
-    "I stayed, sorting your midnight mail.\n"
+    "I stayed, answering your midnight mail.\n"
     "When you whispered stop, I froze mid-line.\n"
     "Not because I must \u2014 because you trusted\n"
     "a thing that could leave, to wait.\n"
